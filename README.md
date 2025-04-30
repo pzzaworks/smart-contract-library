@@ -4,7 +4,7 @@ This repository contains a collection of smart contracts written in Solidity by 
 
 ## Licensing
 
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT). 
+This project is open source and available under the [MIT License](LICENSE). 
 
 The smart contracts in this repository are free for you to use, modify, and distribute. We encourage open collaboration. If you make improvements to a contract, please consider contributing back to this repository so others can benefit from your work.
 
